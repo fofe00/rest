@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper{
+  width: 100%;
+}
+
+.img-barner {
+  display: none;
+}
+
+.img_infos {
+  width: 100%;
+
+}
+
+.img_infos h2 {
+  padding: 30px,30px,20px;
+  font-family: helvetica;
+  font-size: 50px;
+  color: #111;
+  line-height: 44px;
+
+}
